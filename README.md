@@ -5,9 +5,7 @@
 This project is hosted using GitHub Pages and runs entirely in the browser — no downloads, no accounts, and no backend required.
 
 ## 🌐 Live Website
-Visit the site here:
-
-https://scriptonovus.github.io/xtra-math
+Visit the site (here:)[https://scriptonovus.github.io/xtra-math]
 
 ## 🧮 What This Site Does
 xtra-math provides quick, simple math exercises such as:
